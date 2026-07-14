@@ -23,7 +23,7 @@ This project is a simple REST-like API built using **Django Class-Based Views (C
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Home/
@@ -160,5 +160,5 @@ http://127.0.0.1:8000/product/
 
 ##  Author
 
-**Devansh Tripathi**
+**Devansh Tripathi : I'm Improving my skill day-by-day with this Small project , This AIP is for client website **
 
